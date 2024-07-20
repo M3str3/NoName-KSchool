@@ -1,4 +1,5 @@
 # Ddosia-targets
+![image](https://github.com/user-attachments/assets/9e300c5c-6bd8-4ec2-8248-11a7062412ae)
 
 Esta carpeta contiene una guía para extraer los objetivos del grupo NoName057(16) directamente desde la memoria utilizando técnicas básicas de ingeniería inversa con Frida.
 
