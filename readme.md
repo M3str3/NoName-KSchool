@@ -1,6 +1,9 @@
-# NoName057(16) TFM Repository
+# Cazando al oso: Informe CTI sobre NoName057(16) | Material
 
-Este repositorio contiene todos los materiales necesarios para el Trabajo de Fin de Máster (TFM) sobre NoName057(16). Aquí encontrarás herramientas y estudios realizados como parte del análisis del grupo.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76dd9410-c1e8-4e59-b40a-d4455f07d02b" height=400px />
+</p>
+Este repositorio contiene todos los materiales utilizados para el Trabajo de Fin de Máster (TFM) sobre NoName057(16). Aquí encontrarás herramientas y estudios realizados como parte del análisis del grupo.
 
 ## Contenido del repositorio
 ```
