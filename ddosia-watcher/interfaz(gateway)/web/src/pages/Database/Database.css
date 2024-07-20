@@ -1,0 +1,70 @@
+/* Home.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease-out;
+  height: 100vh;
+  justify-content: center;
+}
+
+.container.active {
+  justify-content: flex-start;
+  padding-top: 20px;
+}
+
+.input-container{
+  width: 40%;
+}
+
+.input-container input {
+  width: 100%;  /* Usa todo el ancho del contenedor */
+  padding: 10px 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;  /* Borde más definido */
+  border-radius: 25px;  /* Bordes redondeados */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);  /* Sombra suave */
+  outline: none;  /* Remueve el borde al enfocar */
+  transition: border-color 0.3s, box-shadow 0.3s, position 0.1s;
+}
+
+.input-container input:focus {
+  border-color: #0056b3;  /* Cambia el color del borde al enfocar */
+  box-shadow: 0 0 8px rgba(0,86,179,0.5);  /* Sombra más prominente al enfocar */
+}
+
+
+.chart-container {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 20px;
+}
+
+.domains-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.domain {
+  background-color: #ffffff;  /* Fondo blanco para resaltar cada registro */
+  border: 1px solid #c4c4c4;  /* Borde sutil */
+  border-radius: 10px;  /* Bordes ligeramente redondeados */
+  padding: 15px;  /* Espaciado interno generoso */
+  margin: 10px 0;  /* Espaciado externo entre registros */
+  width: calc(100% - 40px);  /* Ancho ajustado al padding */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);  /* Sombra suave para efecto elevado */
+  transition: all 0.3s, box-shadow 0.3s;
+  cursor: pointer;  /* Cursor en forma de mano al pasar sobre el elemento */
+}
+
+.domain:hover {
+  background-color: #f8f8f8;  /* Cambio de color al pasar el mouse */
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);  /* Sombra más profunda al pasar el mouse */
+  scale: 1.01;
+}
+
+.no-results {
+  color: #888;
+}

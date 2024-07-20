@@ -1,0 +1,9 @@
+/* Main.css */
+.map {
+    height: 500px; /* Ajusta según tus necesidades */
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #333;
+}

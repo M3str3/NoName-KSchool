@@ -1,0 +1,41 @@
+/* Domain.css */
+body {
+    font-family: Arial, sans-serif; /* Establece una tipografía limpia */
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .reg {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 5%;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+  }
+  
+  .reg:hover {
+    background-color: #dbdbdb; /* Efecto hover para mejorar interactividad */
+    color: white;
+  }
+  
+  .reg p {
+    margin: 5px 0;
+    color: #555; /* Texto más suave para mejorar la legibilidad */
+  }
+  
+  .no-data {
+    text-align: center;
+    color: #666;
+    font-size: 16px;
+  }
+  
+  .btn-yara{
+    margin: 10px 5%;
+    width: 90%;
+  }

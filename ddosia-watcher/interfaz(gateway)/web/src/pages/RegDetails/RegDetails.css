@@ -1,0 +1,41 @@
+/* RegDetails.css */
+.RegDetails {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  .RegDetails .header {
+    color: #333;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .RegDetails .details {
+    margin-bottom: 20px;
+  }
+  
+  .RegDetails .details p {
+    color: #666;
+    font-size: 16px;
+  }
+  
+  .RegDetails .pre-json {
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    overflow: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .RegDetails .loading {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+  }
+  
