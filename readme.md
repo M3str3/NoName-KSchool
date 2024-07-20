@@ -17,7 +17,6 @@ Este repositorio contiene todos los materiales utilizados para el Trabajo de Fin
 │ └───vm
 ├───Images
 ├───notebook
-│ └───.ipynb_checkpoints
 └───scripts
 ```
 
