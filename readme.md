@@ -5,6 +5,7 @@ Este repositorio contiene todos los materiales necesarios para el Trabajo de Fin
 ## Contenido del repositorio
 ```
 ├───data
+├───versiones
 ├───ddosia-targets
 ├───ddosia-watcher
 │ ├───interfaz(gateway)
@@ -17,6 +18,7 @@ Este repositorio contiene todos los materiales necesarios para el Trabajo de Fin
 └───scripts
 ```
 
+- **versiones**: Versiones del software de DDoSia 
 - **data**: Carpeta con los datos recolectados y utilizados en el análisis.
 - **ddosia-targets**: Carpeta con una guía para extraer objetivos del grupo NoName057(16).
 - **ddosia-watcher**: Herramienta para visualizar los objetivos identificados.
