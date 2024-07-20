@@ -1,0 +1,1 @@
+Imagenes generadas por ChatGPT-4o para el TFM
