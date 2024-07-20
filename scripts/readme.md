@@ -1,4 +1,6 @@
 # TgCrawler
+![image](https://github.com/user-attachments/assets/255d4c2c-c65e-4e5a-a89f-04ae4160497a)
+
 # Descripción
 TgCrawler es un script en Python diseñado para descargar mensajes de un canal de Telegram especificado y almacenarlos en una base de datos SQLite. Este script permite la recuperación y análisis fácil de los mensajes del canal, usuarios e interacciones.
 
