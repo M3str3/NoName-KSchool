@@ -1,6 +1,9 @@
 # Ddosia-watcher
 
 Esta carpeta contiene la aplicación de seguimiento del grupo NoName057(16). La configuración consta de dos máquinas separadas: una ejecutando DDoSia y la otra funcionando como gateway con ProtonVPN. La aplicación incluye una interfaz web y una API para visualizar los objetivos extraídos.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1d72e93-8ea3-4187-8213-7dbdfd736859" height=400px />
+</p>
 
 ## Descripción general
 
@@ -59,4 +62,7 @@ El sistema se compone de dos máquinas:
     - La interfaz mostrará los objetivos extraídos por DDoSia en tiempo real.
 
 ## Demo
+
+
+https://github.com/user-attachments/assets/3d73ae73-17f2-4335-9940-dcb0d4d499d3
 
