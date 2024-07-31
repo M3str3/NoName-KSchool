@@ -56,6 +56,7 @@ def recover_targets( out_file:bool = False):
     try:
         for target in result:
             if 'host' in target:
+                write_reg_sqlite(target)
                 if target['host'] in resumen:
                     if not target['ip'] in resumen[target['host']]:
                         resumen[target['host']].append(target['ip'])
